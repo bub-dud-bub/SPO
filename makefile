@@ -1,4 +1,4 @@
-NAME = lab03
+NAME = calculator
 SRC = $(NAME).c
 EXEC = $(NAME).exe
 
